@@ -1,0 +1,5 @@
+RASM Listing File
+.text section (RVA 0x1000, 28 bytes):
+
+0x1000: 6a 0 68 11 30 40 0 68 0 30 40 0 6a 0 ff 15 
+0x1010: a5 20 40 0 6a 0 ff 15 61 20 40 0 

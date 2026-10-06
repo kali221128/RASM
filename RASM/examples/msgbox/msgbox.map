@@ -1,0 +1,11 @@
+RASM Map File
+ImageBase = 0x00400000
+
+Address         Symbol
+0x3011        caption
+0x4020a5        __imp_MessageBoxA
+0x402059        __imp_GetStdHandle
+0x402061        __imp_ExitProcess
+0x3000        text
+0x40205d        __imp_WriteFile
+0x1000        _start
